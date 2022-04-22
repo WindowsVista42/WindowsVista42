@@ -1,4 +1,5 @@
 ### Hi, I'm Sean, a game and game engine programmer
+Feel free to check out some of my projects
 
 <!--
 **WindowsVista42/WindowsVista42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
