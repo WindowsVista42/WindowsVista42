@@ -7,8 +7,8 @@ My name is Sean, I am 20 years old and currently studying Computer Science at th
 - Computer Graphics
 - API design
   
-![Sean Moulton's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsVista42&theme=dracula&show_icons=true&count_private=true)
-![Sean Moulton's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=WindowsVista42&theme=dracula&show_icons=true&count_private=true&layout=compact)  
+![Sean Moulton's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsVista42&theme=dracula&show_icons=true&count_private=true&hide=issues)
+![Sean Moulton's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=WindowsVista42&theme=dracula&show_icons=true&count_private=true&layout=compact&langs_count=3)  
 
 ```My computer graphics and game engine knowledge is self-taught```
 
