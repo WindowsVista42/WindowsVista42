@@ -1,5 +1,5 @@
 # Hi!
-I'm Sean, a 3rd year computer science major, and am currently focusing on game engines and game development.
+I'm Sean, a 3rd year computer science major who is currently focusing on games and game engines.
 
 ## Skills
 * C, C++, Python
