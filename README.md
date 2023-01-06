@@ -13,7 +13,6 @@ I'm Sean, a 3rd year computer science major, and am currently focusing on game e
 - Entity component systems
 - Material and effect systems
 - Optimized asset file formats
-- Various shaders
 - Various acceleration structures and memory allocators
 
 ## Contact
