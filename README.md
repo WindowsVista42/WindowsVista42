@@ -1,15 +1,20 @@
-# Greetings!
-My name is Sean, I am 20 years old and currently studying Computer Science at the University of North Texas. In my free time I am developing a game engine.  
-**Website soon!**
+# Hi!
+I'm Sean, a 3rd year computer science major, and am currently focusing on game engines and game development
 
-### I'm currently focusing on:
-- Game Engines
-- Computer Graphics
-- API Design
-  
-![Sean Moulton's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsVista42&theme=dracula&show_icons=true&count_private=true)
-![Sean Moulton's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=WindowsVista42&theme=dracula&show_icons=true&count_private=true&langs_count=2)  
+## Skills
+* C, C++, Python
+* Vulkan and DX12
+* Win32
+* GLSL and HLSL
+* GLFW, Bullet3, OpenAL, EnTT
 
-```My computer graphics and game engine knowledge is self-taught```
+## Notable things I have built
+- Deferred and forward renderers
+- Entity component systems
+- Material and effect systems
+- Optimized asset file formats
+- Various shaders
+- Various acceleration structures and memory allocators
 
-<!--- #### Feel free to check out some of my projects or maybe my [website](https://WindowsVista42.github.io)! --->
+## Contact
+Feel free to email me if you have any questions or would like to get in touch!
