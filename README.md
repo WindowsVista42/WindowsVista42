@@ -25,4 +25,4 @@ I like making things from scratch and have experience with modern graphics APIs 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/320px-Vulkan_logo.svg.png" height="24">
 
 ## Contact
-Email me if you have any questions or would like to get in touch.
+Email me if you have any questions or want to get in touch.
