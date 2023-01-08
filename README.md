@@ -1,6 +1,6 @@
 # Hi!
-Hi, I'm Sean, a 3rd-year computer science major who is currently focusing on games and game engines.  
-Over the past couple of years I've gained experience with modern 3D graphics APIs and making games from the ground-up.  
+Hi, I'm Sean, a 3rd-year computer science major currently focusing on games and game engines.  
+I like making things from the ground-up and have experience with modern 3D graphics APIs and game engine technology.
 
 **Some notable things I've built for my projects are:**
 - Deferred and forward renderers
