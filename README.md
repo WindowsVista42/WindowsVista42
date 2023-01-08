@@ -16,14 +16,12 @@ Over the past couple of years I've gained experience with modern 3D graphics API
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/240px-Lua-Logo.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/240px-Cmake.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png" height="24">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/241px-Visual_Studio_Icon_2019.svg.png" height="24">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/48px-EmacsIcon.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" height="24">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/293px-Blender_logo_no_text.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/246px-Adobe_Photoshop_CC_icon.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/246px-Adobe_Illustrator_CC_icon.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/246px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" height="24">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/293px-Blender_logo_no_text.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/320px-Vulkan_logo.svg.png" height="24">
 
 ## Contact
