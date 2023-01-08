@@ -25,4 +25,4 @@ Over the past couple of years I've gained experience with modern 3D graphics API
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/320px-Vulkan_logo.svg.png" height="24">
 
 ## Contact
-Feel free to email me if you have any questions or would like to get in touch
+Email me if you have any questions or would like to get in touch.
