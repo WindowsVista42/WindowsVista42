@@ -8,6 +8,7 @@ I like making things from scratch and have experience with modern graphics APIs 
 - Material and effect systems
 - Various optimized file formats for assets and other data
 - Various acceleration structures and memory allocators
+- A custom thread pool implementation
 - And more... Feel free to check out my pinned projects for more details!
 
 #### Languages and Tools
