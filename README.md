@@ -1,6 +1,6 @@
 # Hi!
 Hi, I'm Sean, a 3rd-year computer science major currently focusing on games and game engines.  
-I like making things from scratch and have experience with modern graphics APIs and game engine technology.
+I am building a game engine from scratch and have considerable experience with modern graphics APIs and game engine technology.
 
 **Some notable things I've built include:**
 - Deferred and forward renderers
