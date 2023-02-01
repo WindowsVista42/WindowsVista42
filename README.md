@@ -1,8 +1,8 @@
 # Hi!
 Hi, I'm Sean, a 3rd-year computer science major currently focusing on games and game engines.  
-I am building a game engine from scratch and have considerable experience with modern graphics APIs and game engine technology.
+I am building a game engine from scratch and have considerable experience with modern graphics APIs and game engine technology.  
 
-**Some notable things I've built include:**
+**I have worked on:**
 - Deferred and forward renderers
 - Entity component systems
 - Material and effect systems
@@ -10,7 +10,7 @@ I am building a game engine from scratch and have considerable experience with m
 - Various acceleration structures and memory allocators
 - A custom thread pool implementation
 - A custom package format
-- And more... Feel free to check out my pinned projects for more details!
+- Please check out [Quark-Engine](https://github.com/WindowsVista42/Quark-Engine) for more details!
 
 #### Languages and Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24">
