@@ -10,7 +10,7 @@ I am building a game engine from scratch and have considerable experience with m
 - Various acceleration structures and memory allocators
 - A custom thread pool implementation
 - A custom package format
-- Please check out [Quark-Engine](https://github.com/WindowsVista42/Quark-Engine) for more details!
+- Check out [Quark-Engine](https://github.com/WindowsVista42/Quark-Engine) for more details!
 
 #### Languages and Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24">
