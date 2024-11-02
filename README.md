@@ -1,21 +1,20 @@
 # Hi!
-Hi, I'm Sean, a 3rd-year computer science major currently focusing on games and game engines.  
-I am building a game engine from scratch and have considerable experience with modern graphics APIs and game engine technology.  
+Hi, I'm Sean, I graduated in 2024 from the University of North Texas with a B.S. in Computer Science. My focus is on computer graphics, game engines, low-level programming, and XR. I have experience working in a research environment at the xREZ Art + Science Lab where I worked on high-profile projects with NASA and other universities.
 
-**I have worked on:**
-- Deferred and forward renderers
-- Entity component systems
-- Material and effect systems
-- Various optimized file formats for assets and other data
-- Various acceleration structures and memory allocators
-- A custom thread pool implementation
-- A custom package format
-- Check out [Quark-Engine](https://github.com/WindowsVista42/Quark-Engine) for more details!
+**Projects I worked on @ xREZ Art + Science Lab, May 2023 - Current**:
+- **VALXIR**: A NASA-funded VR data visualization and analysis tool. Build as a collaboration between NASA GSFC, UMBC, UMD, and UNT.
+- **Waving: From Space to Ocean**: An interactive science exhibit using data from the PACE Satellite. Built as a collaboration between NASA GSFC, NASA PACE, NASA Ocean Color, UMD, and UNT.
+- **XR Platform**: A cross-platform, multiplayer, biometric research environment supporting VR, AR, PC, and tablet. Integrates with multiple devices including the Microsoft Hololens 2, VIVE Pro Eye, VIVE Focus 3, Windows PCs, and Android tablets.
+- **Gaze Overlay**: A tool for overlaying eye tracking data on top of the SteamVR VR View for SteamVR compatible eye tracking HMDs. Has been used internally at NASA GSFC on the *VALXIR* project to inform future design decisions.
 
-#### Languages and Tools
+**For personal and class projects, see the pinned repositories down below!**  
+My projects include work on renderers, games, and more.
+
+## Languages and Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24">
+<img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png" height="24">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png" height="24">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/240px-Lua-Logo.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/240px-Cmake.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/241px-Visual_Studio_Icon_2019.svg.png" height="24">
@@ -25,6 +24,4 @@ I am building a game engine from scratch and have considerable experience with m
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/246px-Adobe_Illustrator_CC_icon.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/246px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" height="24">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/320px-Vulkan_logo.svg.png" height="24">
-
-## Contact
-Email me if you have any questions or want to get in touch.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenXR_logo.svg/2880px-OpenXR_logo.svg.png" height="24">
